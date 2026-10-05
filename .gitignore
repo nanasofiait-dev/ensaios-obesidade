@@ -1,0 +1,11 @@
+# Ambiente virtual (cada pessoa cria o seu a partir do requirements.txt)
+.venv/
+
+# Cópias automáticas do Jupyter
+.ipynb_checkpoints/
+
+# Ficheiros temporários do Python
+__pycache__/
+
+# Definições pessoais do VS Code
+.vscode/
