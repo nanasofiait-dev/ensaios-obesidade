@@ -9,3 +9,6 @@ __pycache__/
 
 # Definições pessoais do VS Code
 .vscode/
+
+# Notebooks de treino (não vão para o GitHub)
+notebooks/treino_*.ipynb
